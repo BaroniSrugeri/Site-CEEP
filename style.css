@@ -48,7 +48,7 @@ main{
 .botao{
     color: rgb(0, 0, 0);
     font-size: 30px;
-    margin: 20px;
+    margin: 30px;
     height: 80px;
     width: 160px;
     right: 50%;
@@ -63,6 +63,7 @@ footer{
     background-color: black;
     margin: 10, 20px;
     display: flex;
+    padding: 20px;
 }
 .logo2{
     margin: 5px, 10px;
