@@ -39,41 +39,26 @@ a{
     margin: 70px 55px;
     color: white;
 }
-/* Css Main */
-main{
-    background-color: rgb(199, 32, 32);
-    color: white;
+/**/
+div{
+    border-radius: 6px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    background-color: black;
+    margin: 10px;
 }
-.banner{
-    width: 100%;
+img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    size: 30%;
+    border-radius: 6px;
 }
-.Sobre{
-    margin: 5%;
-    text-align: center;
+.quimica{
+    display: flex;
 }
-.sobre-ceep{
-    margin: 65px;
-    text-align: center;
-    font-size: 150%;
-    background-color: rgb(255, 255, 255);
-    border-radius: 5px;
-    padding: 20px;
-    color: black;
-}
-.botao{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    margin: 30px;
-    height: 80px;
-    width: 160px;
-    right: 50%;
-    margin-left: 46%;
-    background-color: rgb(255, 251, 251);
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-/* Css Footer */
+
 footer{
     background-color: black;
     margin: 10, 20px;
